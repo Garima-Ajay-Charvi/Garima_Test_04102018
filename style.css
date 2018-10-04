@@ -1,0 +1,52 @@
+
+/* Sign-up*/
+
+#Sign-Up {
+    background-color: lightpink;
+}
+
+#intro-image {
+    background-color: mediumaquamarine;
+    }
+
+
+/* nav*/
+.navbar-brand{
+    color: darkred;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+
+
+/*clothes*/
+#clothDepartment{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: darkgoldenrod;
+}
+
+/*Electronics*/
+#ElectronicDepartment{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: darkgoldenrod;
+}
+#glance {
+    padding-left: 20px;
+}
+#glance h2 {
+color: indigo;
+}
+#SportsDepartment{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: darkgoldenrod;
+}
+#PhoneDepartment{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: darkgoldenrod;
+}
